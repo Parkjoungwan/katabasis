@@ -154,7 +154,9 @@ function renderSummary(summary) {
 }
 
 function renderPanelList(episodes, activeId) {
-  const sorted = [...episodes].sort((a, b) => b.date.localeCompare(a.date));
+  const sorted = [...episodes].sort((a, b) =>
+    b.date.localeCompare(a.date) || b.id.localeCompare(a.id)
+  );
   document.getElementById('panel-list').innerHTML = sorted.map(ep => {
     const [philoA, philoB] = ep.philosophers;
     return `
@@ -178,7 +180,7 @@ function renderPanelList(episodes, activeId) {
 }
 
 // --- Article Schema ---
-function injectArticleSchema(data) {
+function injectArticleSchema(data, id) {
   const existing = document.getElementById('episode-schema');
   if (existing) existing.remove();
   const schema = {
@@ -187,7 +189,7 @@ function injectArticleSchema(data) {
     'headline': data.topic.title,
     'description': data.topic.dilemma,
     'datePublished': data.date,
-    'url': `https://katabasis.shop/?id=${data.date}`,
+    'url': `https://katabasis.shop/?id=${id}`,
     'author': [
       { '@type': 'Person', 'name': data.philosophers.A.name },
       { '@type': 'Person', 'name': data.philosophers.B.name }
@@ -222,7 +224,7 @@ async function loadEpisode(id) {
     renderSummary(d.summary);
     document.getElementById('loading-state').style.display = 'none';
     document.getElementById('episode-content').style.display = 'block';
-    injectArticleSchema(data);
+    injectArticleSchema(data, id);
     history.replaceState(null, '', `?id=${id}`);
     renderPanelList(allEpisodes, id);
     window.scrollTo(0, 0);
@@ -238,11 +240,12 @@ async function init() {
     allEpisodes = await res.json();
     const urlId  = new URLSearchParams(window.location.search).get('id');
     const today  = todayStr();
-    const sorted = [...allEpisodes].sort((a, b) => b.date.localeCompare(a.date));
+    const sorted = [...allEpisodes].sort((a, b) =>
+      b.date.localeCompare(a.date) || b.id.localeCompare(a.id)
+    );
     let targetId;
     if (urlId && allEpisodes.find(e => e.id === urlId)) targetId = urlId;
-    else if (allEpisodes.find(e => e.id === today)) targetId = today;
-    else targetId = sorted[0]?.id;
+    else targetId = sorted.find(e => e.date === today)?.id || sorted[0]?.id;
     initLangSwitcher();
     initThemeToggle();
     renderPanelList(allEpisodes, targetId);
