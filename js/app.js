@@ -109,7 +109,7 @@ function renderHeader(data) {
   document.querySelectorAll('.header-avatar').forEach(btn => {
     btn.addEventListener('click', () => openPhiloModal(btn.dataset.side));
   });
-  document.title = `${data.topic.title} — Agora`;
+  document.title = `${data.topic.title} — Katabasis`;
 }
 
 function renderDilemma(data) {
