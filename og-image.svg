@@ -1,0 +1,39 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0d0d0d"/>
+
+  <!-- Atmospheric radial glow -->
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#2a1f0e" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#0d0d0d" stop-opacity="1"/>
+  </radialGradient>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <!-- Subtle concentric circles — underworld descent motif -->
+  <circle cx="600" cy="315" r="260" fill="none" stroke="#1e1e1e" stroke-width="1"/>
+  <circle cx="600" cy="315" r="200" fill="none" stroke="#1e1e1e" stroke-width="1"/>
+  <circle cx="600" cy="315" r="140" fill="none" stroke="#222" stroke-width="1"/>
+  <circle cx="600" cy="315" r="80" fill="none" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- Horizontal rule above title -->
+  <line x1="420" y1="248" x2="780" y2="248" stroke="#3a3020" stroke-width="1"/>
+
+  <!-- Main title -->
+  <text x="600" y="320" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="100" font-weight="normal"
+        fill="#f0ede6" letter-spacing="-2">Katabasis</text>
+
+  <!-- Horizontal rule below title -->
+  <line x1="420" y1="345" x2="780" y2="345" stroke="#3a3020" stroke-width="1"/>
+
+  <!-- Tagline -->
+  <text x="600" y="398" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="24" fill="#8a7d6a" letter-spacing="5">DEAD MINDS. LIVE QUESTIONS.</text>
+
+  <!-- URL hint -->
+  <text x="600" y="560" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="16" fill="#444" letter-spacing="2">katabasis.shop</text>
+</svg>
