@@ -177,6 +177,32 @@ function renderPanelList(episodes, activeId) {
   });
 }
 
+// --- Article Schema ---
+function injectArticleSchema(data) {
+  const existing = document.getElementById('episode-schema');
+  if (existing) existing.remove();
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    'headline': data.topic.title,
+    'description': data.topic.dilemma,
+    'datePublished': data.date,
+    'url': `https://katabasis.shop/?id=${data.date}`,
+    'author': [
+      { '@type': 'Person', 'name': data.philosophers.A.name },
+      { '@type': 'Person', 'name': data.philosophers.B.name }
+    ],
+    'keywords': data.summary.philosophical_keywords.join(', '),
+    'about': { '@type': 'Thing', 'name': data.topic.category },
+    'publisher': { '@type': 'Organization', 'name': 'Katabasis', 'url': 'https://katabasis.shop' }
+  };
+  const script = document.createElement('script');
+  script.id = 'episode-schema';
+  script.type = 'application/ld+json';
+  script.textContent = JSON.stringify(schema);
+  document.head.appendChild(script);
+}
+
 // --- Load Episode ---
 let allEpisodes = [];
 
@@ -196,6 +222,7 @@ async function loadEpisode(id) {
     renderSummary(d.summary);
     document.getElementById('loading-state').style.display = 'none';
     document.getElementById('episode-content').style.display = 'block';
+    injectArticleSchema(data);
     history.replaceState(null, '', `?id=${id}`);
     renderPanelList(allEpisodes, id);
     window.scrollTo(0, 0);
