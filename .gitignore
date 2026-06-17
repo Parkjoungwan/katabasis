@@ -1,3 +1,10 @@
 .claude/
 필로챗/
 node_modules/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
