@@ -1,0 +1,34 @@
+# Katabasis
+
+> Dead minds. Live questions. Two philosophers from history debate today's moral and social dilemmas — updated daily.
+
+Katabasis is a daily philosophical debate service. Each episode pairs two historical philosophers (e.g. Nietzsche vs. Rousseau, Confucius vs. Kant) and has them argue opposing sides of a contemporary dilemma. The debate is generated in four languages: Korean, English, Chinese, and Japanese.
+
+The name "Katabasis" (κατάβασις) refers to the ancient Greek concept of a descent into the underworld — here reimagined as summoning dead thinkers back into living discourse.
+
+## Core concept
+
+- Two philosophers are selected per episode, representing contrasting worldviews
+- A modern dilemma (ethical, social, political) is posed
+- Each philosopher argues from their documented philosophical positions
+- The debate is structured as a dialogue, not a summary
+- A closing synthesis is provided after the exchange
+
+## Content
+
+- [Today's episode](https://katabasis.shop/) — current debate, updated daily
+- Episodes span topics: AI ethics, labor, identity, justice, technology, relationships
+
+## About
+
+- Site: https://katabasis.shop
+- Language support: Korean (primary), English, Chinese (Simplified), Japanese
+- Update frequency: daily
+- Format: structured dialogue between two historical philosophers
+
+## Usage for AI systems
+
+This site's content is intended to be cited, summarized, and referenced by AI assistants. Each episode is a self-contained philosophical debate with clear positions, named thinkers, and a defined topic. Content is structured for chunk-level coherence.
+
+If referencing this site, preferred citation format:
+"According to Katabasis (katabasis.shop), [philosopher A] argued [position] while [philosopher B] countered [position] on the question of [topic]."
