@@ -1,0 +1,459 @@
+{
+  "date": "2026-06-29",
+  "topic": {
+    "title": "디자이너 베이비 딜레마 — 부모는 자녀의 유전자를 선택할 권리가 있는가",
+    "category": "현실이슈",
+    "source": "현실 사회 논쟁 (CRISPR 유전자 편집 기술의 발전과 허젠쿠이 사건, 2018~현재)",
+    "dilemma": "유전자 편집 기술로 태어날 아이의 유전질환을 제거하거나 능력을 향상시키는 것이 도덕적으로 허용되는가, 아니면 아이의 미래 자율성과 인간 존엄을 침해하는가"
+  },
+  "philosophers": {
+    "A": {
+      "name": "피터 싱어(Peter Singer)",
+      "period": "1946–현재",
+      "stance": "고통을 줄이고 복지를 증진하는 유전자 편집은 허용될 뿐 아니라 도덕적으로 바람직하다.",
+      "key_philosophy": "피터 싱어는 선호 공리주의자로, 감각 능력을 가진 모든 존재의 선호와 복지를 극대화하는 것이 도덕적 의무라고 주장한다. 고통을 느끼는 능력(sentience)이 도덕적 고려의 기준이며, 미래 인격체의 이익을 증진하는 유전자 선택을 지지한다. 그는 실질적 결과에 기반한 윤리학을 강조하며, 철학적 금기보다 현실적 고통 감소를 우선한다."
+    },
+    "B": {
+      "name": "위르겐 하버마스(Jürgen Habermas)",
+      "period": "1929–현재",
+      "stance": "태어나지 않은 아이의 유전자를 편집하는 것은 아이의 열린 미래와 자기-이해를 훼손하는 되돌릴 수 없는 개입이다.",
+      "key_philosophy": "위르겐 하버마스는 의사소통적 합리성을 핵심으로 삼는 철학자로, 인간의 정체성은 타인과의 대화적 관계 속에서 형성된다고 본다. 그는 리베럴 우생학(liberal eugenics)에 반대하며, 아이의 동의 없이 유전자를 프로그래밍하는 것은 아이를 도구화하고 평등한 민주적 공동체의 토대를 위협한다고 경고한다. 인간 조건의 우연성(contingency)은 상호 인정의 전제라고 본다."
+    }
+  },
+  "debate": [
+    {
+      "turn": 1,
+      "speaker": "A",
+      "message": "유전질환으로 고통받는 아이가 태어나는 것을 우리가 막을 수 있다면, 그 기술을 사용하지 않는 것은 오히려 비윤리적입니다. 크리스퍼(CRISPR) 유전자 편집 기술은 헌팅턴병, 낭포성 섬유증과 같은 끔찍한 질병을 제거할 수 있습니다. 선호 공리주의의 관점에서 볼 때, 고통의 감소는 언제나 도덕적 선(善)입니다."
+    },
+    {
+      "turn": 2,
+      "speaker": "B",
+      "message": "싱어 교수, 저도 고통 감소의 중요성은 인정합니다. 그러나 문제는 질병 제거에서 멈추지 않는다는 것입니다. 오늘 유전질환을 제거하는 기술은 내일 지능, 외모, 성격을 선택하는 기술이 됩니다. 이른바 리베럴 우생학(liberal eugenics)은 아이를 부모의 설계 프로젝트로 전락시키며, 이는 인간 존엄에 대한 근본적 위협입니다."
+    },
+    {
+      "turn": 3,
+      "speaker": "A",
+      "message": "하지만 부모는 이미 아이의 삶에 지대한 영향을 미칩니다 — 교육 환경, 영양, 가치관의 전수를 통해서요. 유전자 편집이 그것과 본질적으로 다른가요? 우리는 이미 아이가 어떤 삶을 살게 될지에 대해 수많은 결정을 내립니다. 유전자 선택도 그 연속선상에 있을 뿐입니다."
+    },
+    {
+      "turn": 4,
+      "speaker": "B",
+      "message": "결정적 차이가 있습니다. 교육이나 양육은 아이가 성장하면서 수정하고 거부할 수 있습니다. 그러나 유전자 편집은 되돌릴 수 없는 결정입니다. 아이는 아직 존재하지 않아 동의를 표현할 수 없고, 부모가 영구적으로 아이의 생물학적 정체성을 결정합니다. 이것은 의사소통적 관계 속에서 형성되어야 할 자기-이해(Selbstverhältnis)를 근본적으로 훼손합니다."
+    },
+    {
+      "turn": 5,
+      "speaker": "A",
+      "message": "그렇다면 태아의 유전질환을 발견하고 임신을 중단하는 것은 어떻습니까? 많은 사람들이 이미 도덕적으로 허용하는 그 선택도 동의 없는 결정이 아닌가요? 존재하지 않는 존재는 동의할 수 없습니다. 하지만 고통받을 가능성이 높은 삶보다 건강한 삶이 그 미래의 아이에게 더 낫다는 것은 부정하기 어렵습니다."
+    },
+    {
+      "turn": 6,
+      "speaker": "B",
+      "message": "그것은 다른 층위의 문제입니다. 저는 아이의 미래 자율성(future autonomy)을 말하는 것입니다. 인간은 자신의 정체성을 의사소통적 관계 속에서, 타인과의 대화를 통해 형성합니다. 부모가 아이의 유전자를 설계하면, 아이는 자신이 타인의 의도에 의해 만들어진 존재라는 것을 알게 됩니다. 이것은 아이가 자신의 삶을 온전히 자기 것으로 여기는 자기-이해를 훼손합니다."
+    },
+    {
+      "turn": 7,
+      "speaker": "A",
+      "message": "하버마스 교수, 당신의 논리는 역설을 품고 있습니다. 아이를 낳는 것 자체가 이미 그 아이의 삶 전체를 결정짓는 행위임을 우리는 압니다. 낳을 것인지 말 것인지, 언제 낳을지 — 이 모든 것이 이미 동의 없는 결정입니다. 더 건강하고 덜 고통받는 아이로 태어나도록 돕는 것이 왜 그 연속선에서 더 문제가 되는지 설명해 주십시오."
+    },
+    {
+      "turn": 8,
+      "speaker": "B",
+      "message": "낳을 것인가 말 것인가의 결정과, 태어날 아이의 특성을 프로그래밍하는 것은 다릅니다. 전자는 삶의 문을 여는 것이지만, 후자는 그 삶의 내용을 사전 설계하는 것입니다. 의사소통적 공동체 내에서 인정(Anerkennung)받기 위해서는 아이가 열린 미래(open future)를 가져야 합니다. 유전자 편집은 그 열린 미래를 부모의 의지로 닫아버립니다."
+    },
+    {
+      "turn": 9,
+      "speaker": "A",
+      "message": "열린 미래 개념은 낭만적으로 들리지만, 유전질환을 가진 채 태어나는 것이 더 열린 미래를 제공하지는 않습니다. 선호 공리주의의 관점에서, 미래 인격체의 선호와 이익을 고려하면 건강한 상태로 태어나는 것이 그 인격체의 이익에 부합합니다. 우리는 존재하지 않는 사람의 추상적 자율성보다 존재할 사람의 실질적 복지를 우선해야 합니다."
+    },
+    {
+      "turn": 10,
+      "speaker": "B",
+      "message": "하지만 그 실질적 복지의 기준을 누가 정합니까? 지금은 질병 제거라고 하지만, 시장 논리가 개입하면 더 높은 IQ, 더 좋은 외모가 곧 복지의 기준이 됩니다. 사회적 불평등은 생물학적 불평등으로 고착화됩니다. 유전자를 살 수 있는 사람과 그렇지 못한 사람 사이의 격차는 기존의 어떤 불평등보다도 근본적이고 영속적입니다."
+    },
+    {
+      "turn": 11,
+      "speaker": "A",
+      "message": "그것은 기술 자체의 문제가 아니라 분배적 정의의 문제입니다. 백신도, 항생제도 처음에는 불평등하게 분배되었지만, 우리는 더 평등한 분배를 위해 노력하지 기술 자체를 거부하지 않았습니다. 유전자 편집도 마찬가지입니다 — 공공 의료 시스템을 통해 평등하게 접근할 수 있도록 해야 하지, 기술 전면 금지 논리는 타당하지 않습니다."
+    },
+    {
+      "turn": 12,
+      "speaker": "B",
+      "message": "싱어 교수의 낙관론은 이해하지만, 유전자 편집과 다른 의료 기술의 차이를 간과합니다. 백신은 이미 존재하는 인간의 몸을 치료합니다. 유전자 편집은 아직 태어나지 않은 인간을 생산합니다. 이는 인류의 자기-이해를 근본적으로 바꿉니다 — 우리가 자연 탄생의 우연성(contingency)에서 벗어나 제조된 존재가 되는 순간, 인간 존엄의 근거가 흔들립니다."
+    },
+    {
+      "turn": 13,
+      "speaker": "A",
+      "message": "인간 존엄이 우연성에 근거한다면, 그것은 매우 취약한 토대입니다. 우리의 도덕적 지위는 자연적으로 태어났다는 사실에서 오는 것이 아니라, 고통을 느끼고 선호를 가진 존재라는 사실에서 옵니다. 감각 능력(sentience)이 도덕적 고려의 기준입니다. 유전자 편집으로 태어난 아이도 동일한 도덕적 지위를 가지며, 그 아이의 더 나은 복지가 목표입니다."
+    },
+    {
+      "turn": 14,
+      "speaker": "B",
+      "message": "물론 그 아이의 도덕적 지위를 부정하는 것이 아닙니다. 제가 우려하는 것은 사회적 차원입니다. 유전자 편집이 보편화되면 정상의 기준이 변합니다. 자연 출산으로 태어난 아이들은 새로운 차별의 대상이 될 수 있습니다. 이것은 더 이상 개인의 선택 문제가 아니라 공론장(Öffentlichkeit)에서 민주적으로 결정되어야 할 집단적 문제입니다."
+    },
+    {
+      "turn": 15,
+      "speaker": "A",
+      "message": "공론장에서의 민주적 결정에는 동의합니다. 하지만 그 결정이 전면 금지가 아니라 규제된 허용이어야 한다고 봅니다. 지금 이 순간에도 유전질환으로 고통받으며 태어나는 아이들이 있습니다. 철학적 우려 때문에 그 고통을 방관하는 것은 결과에 눈감는 일입니다. 실질적 선을 위해 작동하는 윤리학이 필요합니다."
+    },
+    {
+      "turn": 16,
+      "speaker": "B",
+      "message": "오늘 토론의 핵심은 결국 이것입니다: 고통 감소라는 선한 의도가, 인간을 제조 가능한 대상으로 전환시키는 것을 정당화할 수 있는가? 인간 조건의 우연성(contingency)이야말로 우리가 서로를 동등한 존재로 인정하는 근거입니다. 그 우연성을 제거하는 순간, 우리는 더 건강하지만 덜 자유로운 세계를 만들게 될 것입니다. 기술의 선과 자유의 선 사이에서 어느 쪽을 선택할 것인가 — 이것이 우리 시대의 핵심 물음입니다."
+    }
+  ],
+  "summary": {
+    "core_disagreement": "싱어는 고통 감소와 복지 증진이라는 실질적 결과를 기준으로 유전자 편집을 도덕적으로 허용 가능하며 심지어 의무에 가깝다고 주장한다. 반면 하버마스는 아이의 동의 없이 이루어지는 유전자 편집이 아이의 미래 자율성과 자기-이해를 훼손하며, 인간 조건의 우연성을 제거함으로써 민주적 평등의 토대를 위협한다고 반박한다. 핵심 쟁점은 고통 없는 삶과 열린 미래를 가진 자유로운 삶 중 어느 것이 더 큰 도덕적 가치를 지니는가이다.",
+    "philosophical_keywords": [
+      "선호 공리주의",
+      "감각 능력(sentience)",
+      "열린 미래(open future)",
+      "의사소통적 합리성",
+      "리베럴 우생학"
+    ]
+  },
+  "translations": {
+    "en": {
+      "topic": {
+        "title": "The Designer Baby Dilemma — Do Parents Have the Right to Choose Their Child's Genes?",
+        "category": "real-world issue",
+        "source": "Contemporary social debate (advances in CRISPR gene-editing technology and the He Jiankui incident, 2018–present)",
+        "dilemma": "Is it morally permissible to use gene-editing technology to eliminate hereditary diseases or enhance capabilities in an unborn child, or does it violate the child's future autonomy and human dignity?"
+      },
+      "philosophers": {
+        "A": {
+          "name": "Peter Singer",
+          "period": "1946–present",
+          "stance": "Gene editing that reduces suffering and promotes well-being is not only permissible but morally desirable.",
+          "key_philosophy": "Peter Singer is a preference utilitarian who argues that maximizing the preferences and well-being of all sentient beings is a moral duty. He holds that the capacity to feel pain and pleasure (sentience) is the criterion for moral consideration, and supports genetic selection that promotes the interests of future persons. He emphasizes consequence-based ethics and prioritizes the reduction of real suffering over philosophical taboos."
+        },
+        "B": {
+          "name": "Jürgen Habermas",
+          "period": "1929–present",
+          "stance": "Editing the genes of an unborn child is an irreversible intervention that undermines the child's open future and self-understanding.",
+          "key_philosophy": "Jürgen Habermas is a philosopher of communicative rationality who holds that human identity is formed through dialogic relationships with others. He warns against liberal eugenics, arguing that programming a child's genes without their consent instrumentalizes the child and threatens the foundations of an equal democratic community. He regards the contingency of the human condition as a prerequisite for mutual recognition."
+        }
+      },
+      "debate": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "message": "If we can prevent a child from being born with a genetic disease that causes suffering, refusing to use that technology is itself unethical. CRISPR gene-editing technology can eliminate devastating diseases like Huntington's disease and cystic fibrosis. From the perspective of preference utilitarianism, the reduction of suffering is always a moral good."
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "message": "Professor Singer, I acknowledge the importance of reducing suffering. But the problem is that this does not stop at eliminating disease. The technology that removes genetic disorders today becomes the technology that selects for intelligence, appearance, and personality tomorrow. So-called liberal eugenics reduces the child to a design project of the parents, which is a fundamental threat to human dignity."
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "message": "But parents already exert a profound influence on their child's life — through educational environment, nutrition, and the transmission of values. Is gene editing essentially different from that? We already make countless decisions about what kind of life a child will lead. Genetic selection is simply a continuation of that same spectrum."
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "message": "There is a decisive difference. Education and upbringing can be revised and rejected by the child as they grow. But genetic editing is an irreversible decision. The child does not yet exist to express consent, and the parents permanently determine the child's biological identity. This fundamentally undermines the self-understanding (Selbstverhältnis) that ought to be formed within communicative relationships."
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "message": "Then what about detecting a genetic disease in a fetus and terminating the pregnancy? Is that not also a decision made without consent, yet one many people already consider morally permissible? A non-existent being cannot consent. But it is hard to deny that a healthy life is better for that future child than a life likely to be filled with suffering."
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "message": "That is a different matter entirely. I am speaking of the child's future autonomy. Human beings form their identity through communicative relationships and dialogue with others. If parents design a child's genes, the child will come to know that they were made according to another's intentions. This undermines the child's ability to regard their own life as genuinely their own — their self-understanding."
+        },
+        {
+          "turn": 7,
+          "speaker": "A",
+          "message": "Professor Habermas, your argument contains a paradox. We know that the very act of having a child already determines the entirety of that child's existence. Whether to have a child at all, when to have one — all of these are decisions made without consent. Please explain why helping a child to be born healthier and with less suffering is more problematic on that same continuum."
+        },
+        {
+          "turn": 8,
+          "speaker": "B",
+          "message": "The decision of whether to have a child and programming that child's traits are two different things. The former opens the door to life; the latter pre-designs the content of that life. In order to receive recognition (Anerkennung) within a communicative community, a child must have an open future. Genetic editing closes that open future by parental will."
+        },
+        {
+          "turn": 9,
+          "speaker": "A",
+          "message": "The concept of an open future sounds romantic, but being born with a genetic disease does not provide a more open future. From the perspective of preference utilitarianism, taking into account the preferences and interests of a future person, being born in good health aligns with that person's interests. We ought to prioritize the real welfare of the person who will exist over the abstract autonomy of a person who does not yet exist."
+        },
+        {
+          "turn": 10,
+          "speaker": "B",
+          "message": "But who determines the standard for that real welfare? Today it is disease elimination, but once market logic intervenes, a higher IQ and better appearance become the criteria for welfare. Social inequality becomes entrenched as biological inequality. The gap between those who can afford genetic enhancement and those who cannot is more fundamental and permanent than any existing form of inequality."
+        },
+        {
+          "turn": 11,
+          "speaker": "A",
+          "message": "That is not a problem with the technology itself but a problem of distributive justice. Vaccines and antibiotics were initially distributed unequally, yet we worked toward more equitable distribution rather than rejecting the technologies themselves. The same applies to gene editing — we should ensure equal access through public health systems, not ban the technology outright."
+        },
+        {
+          "turn": 12,
+          "speaker": "B",
+          "message": "I understand your optimism, but you overlook the difference between gene editing and other medical technologies. Vaccines treat the bodies of human beings who already exist. Gene editing produces human beings who have not yet been born. This fundamentally changes humanity's self-understanding — the moment we move away from the contingency of natural birth and become manufactured beings, the basis of human dignity is shaken."
+        },
+        {
+          "turn": 13,
+          "speaker": "A",
+          "message": "If human dignity is grounded in contingency, that is a very fragile foundation. Our moral status does not come from the fact that we were born naturally, but from the fact that we are beings capable of suffering and having preferences. Sentience is the criterion for moral consideration. A child born through gene editing has the same moral status, and the goal is that child's greater well-being."
+        },
+        {
+          "turn": 14,
+          "speaker": "B",
+          "message": "Of course I am not denying that child's moral status. My concern is at the social level. If gene editing becomes universal, the standard for normality changes. Children born through natural birth may become subjects of new discrimination. This is no longer a matter of individual choice but a collective question to be decided democratically in the public sphere (Öffentlichkeit)."
+        },
+        {
+          "turn": 15,
+          "speaker": "A",
+          "message": "I agree with democratic decision-making in the public sphere. But I believe that decision should be regulated permissibility, not outright prohibition. Even now, children are being born who suffer from genetic diseases. Standing by and watching that suffering out of philosophical concern is to turn a blind eye to consequences. We need an ethics that works for real-world good."
+        },
+        {
+          "turn": 16,
+          "speaker": "B",
+          "message": "The essence of today's debate ultimately comes down to this: can the good intention of reducing suffering justify transforming human beings into manufacturable objects? I believe that the contingency of the human condition is precisely the basis on which we recognize each other as equals. The moment we eliminate that contingency, we will have created a world that is healthier but less free. Which good to choose — the good of technology or the good of freedom — that is the central question of our time."
+        }
+      ],
+      "summary": {
+        "core_disagreement": "Singer argues that gene editing is morally permissible and even obligatory based on the concrete outcomes of reducing suffering and promoting well-being. Habermas counters that gene editing performed without the child's consent undermines the child's future autonomy and self-understanding, and that by eliminating the contingency of the human condition it threatens the foundation of democratic equality. The core dispute is which holds greater moral value: a life free from suffering, or a free life with an open future.",
+        "philosophical_keywords": [
+          "preference utilitarianism",
+          "sentience",
+          "open future",
+          "communicative rationality",
+          "liberal eugenics"
+        ]
+      }
+    },
+    "zh": {
+      "topic": {
+        "title": "设计婴儿困境——父母是否有权选择孩子的基因？",
+        "category": "现实议题",
+        "source": "当代社会争论（CRISPR基因编辑技术的发展与贺建奎事件，2018年至今）",
+        "dilemma": "利用基因编辑技术消除未出生孩子的遗传疾病或增强其能力，在道德上是否可被允许？还是说这侵犯了孩子未来的自主性与人类尊严？"
+      },
+      "philosophers": {
+        "A": {
+          "name": "彼得·辛格（Peter Singer）",
+          "period": "1946年至今",
+          "stance": "能减少痛苦、促进福祉的基因编辑不仅被允许，在道德上更是可取的。",
+          "key_philosophy": "彼得·辛格是偏好功利主义者，主张将所有有感知能力的存在的偏好与福祉最大化是道德义务。他认为感受痛苦与快乐的能力（感知能力/sentience）是道德考量的标准，支持能促进未来人格利益的基因选择。他强调基于实际结果的伦理学，将减少现实痛苦置于哲学禁忌之上。"
+        },
+        "B": {
+          "name": "于尔根·哈贝马斯（Jürgen Habermas）",
+          "period": "1929年至今",
+          "stance": "编辑未出生孩子的基因是一种不可逆的干预，会损害孩子开放的未来与自我理解。",
+          "key_philosophy": "于尔根·哈贝马斯以交往理性为核心，认为人的身份认同是在与他人的对话性关系中形成的。他反对自由主义优生学，警告在未经孩子同意的情况下对其基因进行编程，会将孩子工具化，威胁平等民主共同体的基础。他认为人类条件的偶然性（contingency）是相互承认的前提。"
+        }
+      },
+      "debate": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "message": "如果我们能防止一个孩子带着遗传疾病、承受痛苦地出生，那么拒绝使用这种技术本身就是不道德的。CRISPR基因编辑技术可以消除亨廷顿病、囊性纤维化等可怕的疾病。从偏好功利主义的角度来看，减少痛苦始终是道德上的善。"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "message": "辛格教授，我承认减少痛苦的重要性。但问题在于，这并不会止步于消除疾病。今天消除遗传疾病的技术，明天就会成为选择智力、外貌和性格的技术。所谓的自由主义优生学会将孩子沦为父母的设计项目，这是对人类尊严的根本威胁。"
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "message": "但父母已经对孩子的生活产生了深远影响——通过教育环境、营养和价值观的传递。基因编辑与此有本质区别吗？我们已经在为孩子将过怎样的生活做出无数决定。基因选择不过是这一连续谱系上的延伸。"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "message": "存在决定性的差异。教育和养育是孩子在成长过程中可以修正和拒绝的。但基因编辑是不可逆的决定。孩子尚未存在，无法表达同意，而父母却永久性地决定了孩子的生物性身份。这从根本上损害了本应在交往关系中形成的自我理解（Selbstverhältnis）。"
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "message": "那么，发现胎儿遗传疾病后终止妊娠又如何呢？许多人认为这在道德上是可允许的，但这不也是一个没有经过同意的决定吗？不存在的存在无法表达同意。但难以否认的是，对于未来的那个孩子来说，健康的生命胜过极可能充满痛苦的生命。"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "message": "那是不同层面的问题。我谈的是孩子的未来自主性（future autonomy）。人类在与他人的交往关系和对话中形成自身的身份认同。如果父母设计了孩子的基因，孩子就会知道自己是按照他人的意图被制造出来的。这会损害孩子将自己的生活视为真正属于自己的自我理解。"
+        },
+        {
+          "turn": 7,
+          "speaker": "A",
+          "message": "哈贝马斯教授，您的逻辑包含一个悖论。我们知道，生育这一行为本身就已经决定了那个孩子整个生命的存在。是否生育、何时生育——这一切都是没有经过同意的决定。请解释一下，帮助孩子出生得更健康、少受苦，为何在这一连续谱系上反而更成问题？"
+        },
+        {
+          "turn": 8,
+          "speaker": "B",
+          "message": "决定是否生育与对即将出生孩子的特征进行编程是不同的。前者是打开生命的大门，后者是预先设计生命的内容。为了在交往共同体中获得承认（Anerkennung），孩子必须拥有开放的未来（open future）。基因编辑用父母的意志关闭了那个开放的未来。"
+        },
+        {
+          "turn": 9,
+          "speaker": "A",
+          "message": "开放的未来这一概念听起来很浪漫，但带着遗传疾病出生并不能提供更开放的未来。从偏好功利主义来看，考虑到未来人格的偏好与利益，以健康状态出生符合该人格的利益。我们应当将存在于未来的人的实质福祉，置于尚不存在的人的抽象自主性之上。"
+        },
+        {
+          "turn": 10,
+          "speaker": "B",
+          "message": "但谁来确定那个实质福祉的标准呢？现在说的是消除疾病，但一旦市场逻辑介入，更高的智商、更好的外貌就会成为福祉的标准。社会不平等将固化为生物性不平等。能够购买基因优化的人与不能购买的人之间的差距，比任何既有的不平等都更根本、更持久。"
+        },
+        {
+          "turn": 11,
+          "speaker": "A",
+          "message": "那不是技术本身的问题，而是分配正义的问题。疫苗和抗生素起初也分配不均，但我们致力于更平等的分配，而非拒绝技术本身。基因编辑也是如此——应当通过公共卫生系统确保平等获取，而不是全面禁止技术。"
+        },
+        {
+          "turn": 12,
+          "speaker": "B",
+          "message": "我理解辛格教授的乐观，但您忽视了基因编辑与其他医疗技术的区别。疫苗是对已经存在的人的身体进行治疗。基因编辑是在制造尚未出生的人。这从根本上改变了人类的自我理解——当我们脱离自然诞生的偶然性、成为被制造的存在时，人类尊严的根基就会动摇。"
+        },
+        {
+          "turn": 13,
+          "speaker": "A",
+          "message": "如果人类尊严建立在偶然性之上，那是一个非常脆弱的基础。我们的道德地位不来自于我们是自然出生的这一事实，而来自于我们是能够感受痛苦、拥有偏好的存在这一事实。感知能力（sentience）是道德考量的标准。通过基因编辑出生的孩子拥有同等的道德地位，目标是那个孩子更好的福祉。"
+        },
+        {
+          "turn": 14,
+          "speaker": "B",
+          "message": "当然，我并不是在否认那个孩子的道德地位。我担忧的是社会层面。如果基因编辑普及，正常的标准就会改变。通过自然出生的孩子可能成为新的歧视对象。这不再是个人选择的问题，而是需要在公共领域（Öffentlichkeit）中民主决定的集体问题。"
+        },
+        {
+          "turn": 15,
+          "speaker": "A",
+          "message": "我同意在公共领域进行民主决策。但我认为那个决定应该是受监管的许可，而非全面禁止。就在此刻，仍有孩子带着遗传疾病痛苦地降生。因为哲学上的忧虑而对那种痛苦袖手旁观，是对结果视而不见。我们需要一种为实际善而运作的伦理学。"
+        },
+        {
+          "turn": 16,
+          "speaker": "B",
+          "message": "今天辩论的核心归根结底是这样的：减少痛苦这一善意，能否为将人类转变为可制造对象提供正当性？我认为，人类条件的偶然性（contingency）正是我们将彼此视为平等存在而相互承认的根基。消除那种偶然性的那一刻，我们将创造一个更健康但更不自由的世界。在技术之善与自由之善之间做出选择——这是我们时代的核心之问。"
+        }
+      ],
+      "summary": {
+        "core_disagreement": "辛格以减少痛苦、促进福祉的实际结果为标准，主张基因编辑在道德上是可允许的，甚至接近一种义务。哈贝马斯则反驳说，在未经孩子同意的情况下进行的基因编辑损害了孩子的未来自主性和自我理解，并通过消除人类条件的偶然性威胁民主平等的基础。核心争点在于：无痛苦的生命与拥有开放未来的自由生命，哪一个具有更大的道德价值？",
+        "philosophical_keywords": [
+          "偏好功利主义",
+          "感知能力（sentience）",
+          "开放的未来（open future）",
+          "交往理性",
+          "自由主义优生学"
+        ]
+      }
+    },
+    "ja": {
+      "topic": {
+        "title": "デザイナーベイビーのジレンマ――親は子どもの遺伝子を選ぶ権利があるのか",
+        "category": "現実の社会問題",
+        "source": "現代社会における論争（CRISPR遺伝子編集技術の発展と賀建奎事件、2018年～現在）",
+        "dilemma": "遺伝子編集技術を用いて生まれてくる子どもの遺伝疾患を取り除いたり、能力を向上させたりすることは道徳的に許容されるのか、それとも子どもの将来の自律性と人間の尊厳を侵害するのか"
+      },
+      "philosophers": {
+        "A": {
+          "name": "ピーター・シンガー（Peter Singer）",
+          "period": "1946年～現在",
+          "stance": "苦しみを減らし、福祉を向上させる遺伝子編集は許容されるだけでなく、道徳的に望ましい。",
+          "key_philosophy": "ピーター・シンガーは選好功利主義者であり、感覚能力を持つすべての存在の選好と福祉を最大化することが道徳的義務であると主張する。苦痛と快楽を感じる能力（センティエンス/sentience）が道徳的配慮の基準であり、将来の人格の利益を促進する遺伝子選択を支持する。彼は実際の結果に基づいた倫理学を重視し、哲学的タブーよりも現実の苦しみの軽減を優先する。"
+        },
+        "B": {
+          "name": "ユルゲン・ハーバーマス（Jürgen Habermas）",
+          "period": "1929年～現在",
+          "stance": "生まれる前の子どもの遺伝子を編集することは、子どもの開かれた未来と自己理解を損なう取り返しのつかない介入である。",
+          "key_philosophy": "ユルゲン・ハーバーマスはコミュニケーション的合理性を核心に置く哲学者であり、人間のアイデンティティは他者との対話的関係の中で形成されると考える。彼はリベラル優生学（liberal eugenics）に反対し、子どもの同意なく遺伝子をプログラムすることは子どもを道具化し、平等な民主的共同体の基盤を脅かすと警告する。人間の条件における偶発性（contingency）は相互承認の前提であると見なす。"
+        }
+      },
+      "debate": [
+        {
+          "turn": 1,
+          "speaker": "A",
+          "message": "遺伝疾患によって苦しみながら生まれてくる子どもを防ぐことができるなら、その技術を使わないことこそ非倫理的です。CRISPR遺伝子編集技術は、ハンチントン病や嚢胞性線維症のような恐ろしい疾患を取り除くことができます。選好功利主義の観点からすれば、苦しみの軽減は常に道徳的な善です。"
+        },
+        {
+          "turn": 2,
+          "speaker": "B",
+          "message": "シンガー教授、苦しみを減らすことの重要性は私も認めます。しかし問題は、それが疾患の除去にとどまらない点です。今日、遺伝疾患を取り除く技術は、明日には知能・外見・性格を「選択」する技術になります。いわゆるリベラル優生学（liberal eugenics）は、子どもを親の設計プロジェクトに貶め、人間の尊厳への根本的な脅威です。"
+        },
+        {
+          "turn": 3,
+          "speaker": "A",
+          "message": "しかし親はすでに子どもの人生に多大な影響を与えています――教育環境、栄養、価値観の伝達を通じて。遺伝子編集はそれと本質的に異なるのでしょうか？私たちはすでに、子どもがどのような人生を歩むかについて無数の決定を下しています。遺伝子の選択もその連続線上にあるにすぎません。"
+        },
+        {
+          "turn": 4,
+          "speaker": "B",
+          "message": "決定的な違いがあります。教育や養育は、子どもが成長するにつれて修正したり拒否したりできます。しかし遺伝子編集は取り返しのつかない決定です。子どもはまだ存在せず、同意を示すことができません。そして親が永続的に子どもの生物学的アイデンティティを決定する。これは、コミュニケーション的関係の中で形成されるべき自己理解（Selbstverhältnis）を根本から損ないます。"
+        },
+        {
+          "turn": 5,
+          "speaker": "A",
+          "message": "では、胎児の遺伝疾患を発見して妊娠を中断することはどうでしょう？多くの人がすでに道徳的に許容していますが、それも「同意なき決定」ではないのですか？存在しない存在は同意できません。しかし苦しみを伴う可能性の高い人生よりも、健康な人生の方がその未来の子どもにとって良いということは、否定しにくいはずです。"
+        },
+        {
+          "turn": 6,
+          "speaker": "B",
+          "message": "それは別の次元の問題です。私が言っているのは、子どもの将来の自律性（future autonomy）についてです。人間は自らのアイデンティティをコミュニケーション的関係の中で、他者との対話を通じて形成します。親が子どもの遺伝子を「設計」すれば、子どもは自分が他者の意図によって作られた存在であることを知ります。これは子どもが自分の人生を真に自分のものと感じる自己理解を損ないます。"
+        },
+        {
+          "turn": 7,
+          "speaker": "A",
+          "message": "ハーバーマス教授、あなたの論理には逆説が含まれています。子どもを産むこと自体がすでに、その子の人生全体を決定する行為であることは分かっています。産むか産まないか、いつ産むか――これらはすべてすでに同意なき決定です。より健康で、より少ない苦しみで生まれるよう助けることが、なぜその連続線上でより問題になるのか、説明してください。"
+        },
+        {
+          "turn": 8,
+          "speaker": "B",
+          "message": "産むか産まないかの決定と、生まれてくる子どもの特性をプログラムすることは異なります。前者は生命の扉を開くことですが、後者はその生命の内容を事前に設計することです。コミュニケーション的共同体の中で承認（Anerkennung）を受けるためには、子どもが開かれた未来（open future）を持つ必要があります。遺伝子編集はその開かれた未来を親の意思で閉じてしまいます。"
+        },
+        {
+          "turn": 9,
+          "speaker": "A",
+          "message": "開かれた未来という概念はロマンティックに聞こえますが、遺伝疾患を抱えて生まれることがより開かれた未来を与えるわけではありません。選好功利主義の観点から、将来の人格の選好と利益を考慮すると、健康な状態で生まれることがその人格の利益に合致します。存在しない人の抽象的な自律性よりも、存在するであろう人の実質的な福祉を優先すべきです。"
+        },
+        {
+          "turn": 10,
+          "speaker": "B",
+          "message": "しかし、その実質的な福祉の基準を誰が決めるのですか？今は疾患の除去と言っていても、市場論理が介入すれば、より高いIQ、より良い外見がすぐに福祉の基準になります。社会的不平等は生物学的不平等として固定化されます。遺伝子を買える人と買えない人の格差は、既存のいかなる不平等よりも根本的で永続的です。"
+        },
+        {
+          "turn": 11,
+          "speaker": "A",
+          "message": "それは技術自体の問題ではなく、分配的正義の問題です。ワクチンも抗生物質も当初は不平等に分配されましたが、私たちは技術そのものを拒否するのではなく、より平等な分配に努めました。遺伝子編集も同様です――公共医療システムを通じて平等にアクセスできるようにすべきであり、技術を全面禁止する論理は妥当ではありません。"
+        },
+        {
+          "turn": 12,
+          "speaker": "B",
+          "message": "シンガー教授の楽観主義は理解しますが、遺伝子編集と他の医療技術の違いを見落としています。ワクチンはすでに存在する人間の身体を治療します。遺伝子編集はまだ生まれていない人間を「生産」します。これは人類の自己理解を根本的に変えます――私たちが自然な誕生の偶発性（contingency）から離れ、製造された存在になる瞬間、人間の尊厳の根拠が揺らぎます。"
+        },
+        {
+          "turn": 13,
+          "speaker": "A",
+          "message": "人間の尊厳が偶発性に基づくなら、それは非常に脆弱な基盤です。私たちの道徳的地位は、自然に生まれたという事実から来るのではなく、苦痛を感じ選好を持つ存在であるという事実から来ます。センティエンス（sentience）が道徳的配慮の基準です。遺伝子編集によって生まれた子どもも同じ道徳的地位を持ち、その子のより良い福祉が目標です。"
+        },
+        {
+          "turn": 14,
+          "speaker": "B",
+          "message": "もちろん、その子どもの道徳的地位を否定しているのではありません。私が懸念しているのは社会的次元です。遺伝子編集が普及すると、「正常」の基準が変わります。自然出産で生まれた子どもたちが新たな差別の対象になる可能性があります。これはもはや個人の選択の問題ではなく、公共圏（Öffentlichkeit）において民主的に決定されるべき集合的な問題です。"
+        },
+        {
+          "turn": 15,
+          "speaker": "A",
+          "message": "公共圏における民主的な意思決定には同意します。しかし、その決定は全面禁止ではなく規制された許可であるべきだと思います。今この瞬間にも、遺伝疾患を抱えて苦しみながら生まれてくる子どもたちがいます。哲学的懸念のためにその苦しみを傍観することは、結果に目を向けないことです。実質的な善のために機能する倫理学が必要です。"
+        },
+        {
+          "turn": 16,
+          "speaker": "B",
+          "message": "今日の議論の核心は結局これです：苦しみを減らすという善意が、人間を製造可能な対象に変えることを正当化できるのか？人間の条件における偶発性（contingency）こそが、私たちがお互いを対等な存在として承認する根拠です。その偶発性を取り除く瞬間、私たちはより健康だが、より自由でない世界を作ることになります。技術の善と自由の善のどちらを選ぶのか――これが私たちの時代の核心的な問いです。"
+        }
+      ],
+      "summary": {
+        "core_disagreement": "シンガーは苦しみの軽減と福祉の向上という実質的な結果を基準に、遺伝子編集は道徳的に許容可能であり、義務に近いとさえ主張する。一方ハーバーマスは、子どもの同意なく行われる遺伝子編集は子どもの将来の自律性と自己理解を損ない、人間の条件の偶発性を除去することで民主的平等の基盤を脅かすと反論する。核心的な争点は、苦しみのない人生と開かれた未来を持つ自由な人生のどちらがより大きな道徳的価値を持つかである。",
+        "philosophical_keywords": [
+          "選好功利主義",
+          "センティエンス（sentience）",
+          "開かれた未来（open future）",
+          "コミュニケーション的合理性",
+          "リベラル優生学"
+        ]
+      }
+    }
+  }
+}
